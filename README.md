@@ -1,1 +1,1 @@
-# progra
+print("hello world");
